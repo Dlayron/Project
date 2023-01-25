@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(183,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(183,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(197,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(197,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(210,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(210,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(279,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(334,23): warning C4101: event: неиспользованная локальная переменная
+  Arkanoid.vcxproj -> C:\Users\Master\source\repos\Arkanoid\x64\Debug\Arkanoid.exe
